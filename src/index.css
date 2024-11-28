@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: "Twk_Lausanne";
+  src: url(./assets/TWKLausanne-300.b6399e7.woff2);
+}
+@font-face {
+  font-family: "Twk_Lausanne";
+  src: url(./assets/TWKLausanne-400.b6399e7.woff2);
+}
+@font-face {
+  font-family: "Twk_Lausanne";
+  src: url(./assets/TWKLausanne-500.b6399e7.woff2);
+}
+
+*{
+  font-family: "Twk_Lausanne";
+}
